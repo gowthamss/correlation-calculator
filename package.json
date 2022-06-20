@@ -1,0 +1,36 @@
+{
+  "name": "correlationcalculator",
+  "version": "1.0.0",
+  "description": "This application calculates correlation between two or more securities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gowthamss/correlation-calculator.git"
+  },
+  "keywords": [
+    "correlation",
+    "securities",
+    "stocks",
+    "covariance"
+  ],
+  "author": "Gowtham\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[D\u001b[DB \u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~SS Gowtham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gowthamss/correlation-calculator/issues"
+  },
+  "homepage": "https://github.com/gowthamss/correlation-calculator#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.0",
+    "nodemon": "^2.0.16"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}
